@@ -1,0 +1,30 @@
+ul {
+    list-style-type: none;
+  }
+
+  .oi {
+      font-size: 25px;
+      color: #007bff;
+  }
+
+  hr.dotted {
+    border-top: 2px dotted #999;
+}
+
+.bg-color {
+    background-color:rgb(228, 245, 255);
+}
+
+.bg-color-one {
+    background-color:rgb(253, 253, 242);
+}
+
+.titulo-azul {
+    padding: 20px 10px;
+}
+
+.no-style {
+    color:#212529;
+}
+
+
